@@ -1,6 +1,6 @@
 # Welcome to my profile!
 * I'm based in Gliwice / Poland
-* currently working on college projects and (http://testy-kierowcy.pl/)
+* currently working on college projects and http://testy-kierowcy.pl/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafa%C5%82-malinowski-3944a6388/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r.malinowski3211@gmail.com) 
